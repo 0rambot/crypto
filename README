@@ -18,3 +18,14 @@ file COPYING for details.
 
 ------------------------------------------------------------------------------
 Ben Lynn <blynn@cs.stanford.edu>
+
+
+
+----------------------------------Split line---------------------------------
+#
+author： bo town， 2023.04.19
+#
+
+Project operation guidance：
+1.Go to PBCVC folder,
+2.Open the PBCVC.dsw file with VC++6.0.
